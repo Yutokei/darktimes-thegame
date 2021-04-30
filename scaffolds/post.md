@@ -4,4 +4,3 @@ date: {{ date }}
 tags:
 ---
 
-{% asset_img monthly.png %}
